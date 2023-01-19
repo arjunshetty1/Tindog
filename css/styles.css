@@ -1,0 +1,33 @@
+#title{
+  background-color: #ff4c68;
+  color: #fff;
+}
+.navbar-brand{
+  font-size:3.5rem;
+  font-family: 'Ubuntu';
+  font-weight: bold;
+}
+.title-image{
+  width: 60%;
+  transform: rotate(25deg);
+}
+#features{
+  padding: 7% 15%;
+}
+
+.feature-box{
+  text-align: center;
+  padding:5%;
+  font-family: "Montserrat";
+
+}
+p{
+  color: #8f8f8f;
+}
+.fa-solid{
+color: #ef8172;
+margin-bottom: 1rem;
+}
+.fa-solid:hover{
+  color: #ff4c68;
+}
