@@ -31,3 +31,36 @@ margin-bottom: 1rem;
 .fa-solid:hover{
   color: #ff4c68;
 }
+
+#testimonials{
+  
+  text-align: center;
+  background-color: #ef8172;
+  color: #fff;
+}
+.carousel-item{
+  padding: 7% 15%;
+
+}
+h2{
+  font-family: 'Courier New', Courier, monospace;
+font-style: normal;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+.testimg{
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+#press{
+  background-color: #ef8172;
+  text-align: center;
+  padding-bottom: 3%;
+}
+
+.presslogo{
+ width: 15%;
+ margin: 20px 20px 50px; 
+}
